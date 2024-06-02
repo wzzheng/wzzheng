@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm [Wenzhao Zheng](https://wzzheng.net/), a postdoctoral fellow at [BAIR](http://bair.berkeley.edu/), UC Berkeley, working with by Prof. [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/). I received my Ph.D. and B.S. from Tsinghua University, supervised by [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1) and [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/).
+
+### Previous Efforts
+We build the first academic surround-camera 3D occupancy prediction model [TPVFormer](https://github.com/wzzheng/TPVFormer)🎉. 
+- 3D Scene Representation: [SurroundDepth](https://github.com/weiyithu/SurroundDepth)![SurroundDepth](https://img.shields.io/github/stars/weiyithu/SurroundDepth.svg?style=social&label=Star&maxAge=2592000) -> [TPVFormer](https://github.com/wzzheng/TPVFormer)![TPVFormer](https://img.shields.io/github/stars/wzzheng/TPVFormer.svg?style=social&label=Star&maxAge=2592000) -> [SurroundOcc](https://github.com/weiyithu/SurroundOcc)![SurroundOcc](https://img.shields.io/github/stars/weiyithu/SurroundOcc.svg?style=social&label=Star&maxAge=2592000) -> [SelfOcc](https://github.com/huang-yh/SelfOcc)![SelfOcc](https://img.shields.io/github/stars/huang-yh/SelfOcc.svg?style=social&label=Star&maxAge=2592000) -> [GaussianFormer](https://github.com/huang-yh/GaussianFormer)![GaussianFormer](https://img.shields.io/github/stars/huang-yh/GaussianFormer.svg?style=social&label=Star&maxAge=2592000)
+- End-to-End Autonomous Driving: [BEVerse](https://github.com/zhangyp15/BEVerse)![BEVerse](https://img.shields.io/github/stars/zhangyp15/BEVerse.svg?style=social&label=Star&maxAge=2592000) -> [OccWorld](https://github.com/wzzheng/OccWorld)![OccWorld](https://img.shields.io/github/stars/wzzheng/OccWorld.svg?style=social&label=Star&maxAge=2592000) -> [GenAD](https://github.com/wzzheng/GenAD)![GenAD](https://img.shields.io/github/stars/wzzheng/GenAD.svg?style=social&label=Star&maxAge=2592000) -> [S<sup>3</sup>Gaussian](https://github.com/nnanhuang/S3Gaussian)![S<sup>3</sup>Gaussian](https://img.shields.io/github/stars/nnanhuang/S3Gaussian.svg?style=social&label=Star&maxAge=2592000) -> [OccSora](https://github.com/wzzheng/OccSora)![OccSora](https://img.shields.io/github/stars/wzzheng/OccSora.svg?style=social&label=Star&maxAge=2592000)
+
+### Current Interests
+🦙Large Models + 🚙Autonomous Driving ->  🤖AGI
+- 🦙 Large Models: Efficient/Small LLMs, Multimodal Models, Video Generation Models, Large Action Models...
+- 🚙 Autonomous Driving: 3D Occupancy Prediction, End-to-End Autonomous Driving, 3D Scene Reconstruction, World Models...
+
+### Collaborations
+If you want to work with me (in person or remotely) at 🐻UC Berkeley (Co-supervised by Prof. [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/)), 💜Tsinghua University (Co-supervised by Prof. [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/)),  and/or 🔴Peking University (Co-supervised by Prof. [Shanghang Zhang](https://www.shanghangzhang.com/)), feel free to drop me an email at wzzheng@berkeley.edu. I could support GPUs if we are a good fit.
+
+
 <!--
 **wzzheng/wzzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
